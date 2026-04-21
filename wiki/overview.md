@@ -1,7 +1,7 @@
 ---
 title: Wiki Overview
 type: overview
-last_updated: 2026-04-15
+last_updated: 2026-04-21
 ---
 
 # Wiki Overview
@@ -107,4 +107,6 @@ See [[domains/research/thesis]] for the evolving synthesis across both research 
 
 ## Personal Projects
 
-See [[domains/personal/projects/mindforge]] for MindForge project tracking.
+See [[domains/personal/projects/capstone]] for B.Tech capstone project tracking (AI rehabilitation exercise assessment, EfficientGCN + MediaPipe, 96.3% accuracy).
+
+See [[domains/personal/projects/mindforge]] for MindForge project tracking (4-agent RAG system, Endee dual-index, Streamlit UI).

@@ -9,3 +9,7 @@ Thumbs.db
 # Keep the rest of .obsidian (plugins, config) if you want
 # Uncomment below to ignore all Obsidian config
 # .obsidian/
+# Personal data - local only
+raw/personal/
+wiki/sources/*personal*
+domains/personal/
