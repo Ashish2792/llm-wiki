@@ -1,7 +1,7 @@
 # LLM Wiki
 
 A personal knowledge base built and maintained by an LLM agent.  
-Inspired by [Andrej Karpathy's LLM-Wiki concept](https://github.com/karpathy/llm-wiki).
+Inspired by [Andrej Karpathy's LLM-Wiki concept](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
 > Instead of re-deriving answers from raw documents every query (RAG), this system builds a **persistent, compounding wiki** — structured markdown files that grow richer with every source ingested and every question asked.
 
@@ -173,7 +173,7 @@ The tedious part of maintaining a knowledge base isn't reading or thinking — i
 
 LLMs don't get bored, don't forget to update a cross-reference, and can touch 15 files in one pass. The wiki stays maintained because the cost of maintenance is near zero.
 
-The claim-level citation protocol and multi-agent pipeline address the main criticism of this approach (from [Mehul Gupta's analysis](https://medium.com/)): that errors propagate silently and connections get hallucinated. The Critic Agent blocks errors at entry. The Writer can't write without a citation. The Verifier ensures nothing slips through.
+The claim-level citation protocol and multi-agent pipeline address the main criticism of this approach (from [Mehul Gupta's analysis](https://medium.com/data-science-in-your-pocket/andrej-karpathys-llm-wiki-is-a-bad-idea-8c7e8953c618)): that errors propagate silently and connections get hallucinated. The Critic Agent blocks errors at entry. The Writer can't write without a citation. The Verifier ensures nothing slips through.
 
 ---
 
